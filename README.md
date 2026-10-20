@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Team Phoenix** · Team ID `VTU-QFF-HC-0071` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Team Phoenix)
+[⬆ Back to Top](#team-phoenix)
 
 </div>
